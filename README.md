@@ -5,7 +5,7 @@ Tredio это площадка-агрегатор для поиска инфор
 
 # Сайт
 
-Сайт - https://squid-app-536wx.ondigitalocean.app/
+Сайт - http://165.22.75.179:801/
 
 > Если вы столкнулись с какой либо ошибкой, пожалуйста сойзайте [issue](https://github.com/Jubastik/YlPlusProject/issues).
 
